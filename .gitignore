@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.so
+*.a
+*.zip
+*.tar
+*.tar.gz
+*.d
+*.log
+
+# LV2 bundle folder (built output)
+*.lv2/
+
+# VS Code settings (optional)
+.vscode/
